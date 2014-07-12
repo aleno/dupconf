@@ -1,0 +1,4 @@
+--full-if-older-than=30D
+--use-agent
+--encrypt-key=F08C32C1
+--sign-key=5BCB4B95
