@@ -1,1 +1,1 @@
-python duplicity-quickstart.py config/iuppiter/
+python duplicity-quickstart.py config/`hostname -s`
